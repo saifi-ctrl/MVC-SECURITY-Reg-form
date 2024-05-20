@@ -5,7 +5,7 @@
 <html>
 
 <head>
-    <title>Success page</title>
+    <title>Success page Display</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
